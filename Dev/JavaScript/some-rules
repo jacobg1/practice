@@ -1,0 +1,5 @@
+//When creating/declaring a variable for the first time, use the var keyword.
+//Variable names should be written in camelCase
+	//The first letter of the first word should be lowercase and the first letter of any subsequent words should be uppercase.
+//Add a space before and after the equal sign = .
+//Statements need to end with a semicolon ;.

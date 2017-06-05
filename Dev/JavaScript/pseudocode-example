@@ -1,0 +1,23 @@
+
+1) If patrons are 65 or older, they are eligible for senior discounts. The ticket price for seniors is $6.00.
+
+2) If patrons are 25 or younger, they are eligible for student discounts. The ticket price for students is $8.00.
+
+3) All other tickets cost $10.00.
+
+
+
+
+
+
+
+//Get customer age
+
+//if age greater than or equal to 65 
+	//Display message "Ticket price: $6.00"
+
+//Otherwise if age less than or equal to 25 
+	//Display message "Ticket price: $8.00"
+
+//Otherwise
+	//Display message: "Ticket price: $10.00"
