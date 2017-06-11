@@ -1,0 +1,13 @@
+  A		  B	   A AND B	A OR B	NOT A
+false	false	false	false	true
+false	true	false	true	true
+true	false	false	true	false
+true	true	true	true	false
+
+
+
+NOT(!): If the value is truthy, return false; if the value is falsey, return true.
+
+OR (||): Return the first truthy value; if both values are falsey, return the last falsey value.  
+
+AND (&&): Return the first falsey value; if both values are truthy, return the last truthy value. 
