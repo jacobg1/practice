@@ -30,7 +30,7 @@ var name = ['John', 'Paul', 'Mary'].length;
 console.log(name);
 // => 3
 
-//allows command numbers.length
+//allows command numbers.length (recommend)
 var numbers = [10, 20, 30, 40];
 numbers.length;
 // => 4

@@ -1,4 +1,5 @@
 var dayNumber = 1;
+
 switch (dayNumber) {
 case 0:
   day = 'Sunday';
